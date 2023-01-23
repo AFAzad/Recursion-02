@@ -23,5 +23,7 @@ public class First_And_Last_Occurance {
     String str = "cbaacdeafaahaii";
 
     findOccurance(str,0,'a');
+
+    /*Time compexity is: O(n) */
 } 
 }
